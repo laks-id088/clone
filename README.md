@@ -8,7 +8,8 @@ a Responsive Image viewer application in React where user can view search and fi
 
 ## Screenshots
 
-![App Screenshot](https://firebasestorage.googleapis.com/v0/b/imageinfirebase-8d1a1.appspot.com/o/Screenshot%202023-01-09%20at%204.34.30%20PM.png?alt=media&token=6fbf1337-005e-449d-8f83-dd9e124d83c3)
+![App Screenshot]![Screenshot (35)](https://github.com/user-attachments/assets/879d4e8d-a5dd-4a0d-b4f3-f3ba4747fd44)
+
 
 
 ![App Screenshot](https://firebasestorage.googleapis.com/v0/b/imageinfirebase-8d1a1.appspot.com/o/Screenshot%202023-01-09%20at%204.34.42%20PM.png?alt=media&token=638a22d4-99f9-4190-bc32-15e07b1bfa0b)
